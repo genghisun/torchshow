@@ -1,3 +1,8 @@
+Forked from xwying/torchshow with new feature and bug fix
+## TODO
+- [ ] image color unnormalize consistency
+
+
 <div align="center">
 
 ![TorchShow Logo](https://raw.githubusercontent.com/xwying/torchshow/master/imgs/torchshow.png)
